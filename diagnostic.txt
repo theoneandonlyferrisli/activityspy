@@ -1,0 +1,1 @@
+ERROR: -t "I/MainActivity" not in "%m-%d %H:%M:%S.%3q" time format
